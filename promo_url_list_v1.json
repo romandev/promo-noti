@@ -1,0 +1,13 @@
+{
+  "country": {
+    "us": {
+      "url_list": {
+        "www.google.com": null,
+        "www.amazon.com": null,
+        "www.naver.com": null
+      },
+      "cooltime": "7"
+    }
+  },
+  "fallback_url": "http://www.naver.com"
+}
